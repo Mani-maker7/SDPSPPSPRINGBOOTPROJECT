@@ -26,7 +26,7 @@ import jakarta.persistence.Table;
  {
 	@Id // primary key = unique + not null
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column (name = "student_ id")
+	@Column (name = "student_id")
 	private int id;
 	@Column (name = "student_name", nullable = false,length = 100)
 	private String name;

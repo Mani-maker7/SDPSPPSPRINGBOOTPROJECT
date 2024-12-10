@@ -51,7 +51,7 @@
     }
     </style>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 
 <div class="container"><br/>
     <h2 class="text-center">Available Projects</h2><br/>

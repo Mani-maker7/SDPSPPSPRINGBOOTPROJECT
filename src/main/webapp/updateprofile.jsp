@@ -10,7 +10,7 @@
 <meta charset="UTF-8">
 <title></title>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 <%@include file="studentnavbar.jsp" %>
 
 <h3 align="center">Update profile</h3>

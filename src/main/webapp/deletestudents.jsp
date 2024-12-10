@@ -47,7 +47,7 @@
     </style>
 
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 <%@ include file="adminnavbar.jsp" %>
 <div class="main-content">
     <h3 align="center">Manage Students</h3>

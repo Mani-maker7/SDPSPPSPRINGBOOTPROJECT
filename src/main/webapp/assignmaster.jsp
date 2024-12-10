@@ -10,7 +10,7 @@
     <!-- Include Bootstrap for styling -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 
 <!-- Include admin navbar -->
 <%@ include file="adminnavbar.jsp" %>

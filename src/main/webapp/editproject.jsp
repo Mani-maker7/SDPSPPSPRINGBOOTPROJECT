@@ -40,7 +40,7 @@
         }
     </style>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 <div class="main-content">
     <div class="form-container">
         <form action="editproject" method="post">

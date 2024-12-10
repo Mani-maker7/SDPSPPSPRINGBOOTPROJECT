@@ -54,7 +54,7 @@ if (m == null) {
     }
 </style>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 <%@include file="masternavbar.jsp" %><br/>
 
 <div class="profile-container">

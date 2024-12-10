@@ -148,7 +148,10 @@
     text-align: center;
 }
 </style>
+
 <head>
+<body style="background-color: #e1dbe4;">
+
     <title>Upload Projects</title>
     <!-- Include Bootstrap for Modal -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">

@@ -40,7 +40,7 @@
 </style>
 
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 <%@include file="adminnavbar.jsp" %><br/>
 <!-- Main Content Section -->
 <div class="main-content">

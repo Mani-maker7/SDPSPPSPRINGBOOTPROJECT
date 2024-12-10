@@ -61,7 +61,8 @@
 </head>
     <%@include file="studentnavbar.jsp" %><br/>
 
-<body>
+<body style="background-color: #e1dbe4;">
+
 
 <!-- Navigation Bar (you can replace this with your actual navbar) -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">

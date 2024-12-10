@@ -10,5 +10,5 @@
 <body>
 <a:out value="${message}"></a:out> <br/>
 <a href = "adminlogin">Try again</a>
-</body>
+<body style="background-color: #e1dbe4;">
 </html>

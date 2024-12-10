@@ -49,7 +49,7 @@
         }
     </style>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 
 <!-- Include the admin navbar -->
 <%@ include file="adminnavbar.jsp" %>

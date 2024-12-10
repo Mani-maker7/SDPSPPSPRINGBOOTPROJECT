@@ -50,7 +50,7 @@
         }
     </style>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 <div class="main-content">
     <h2 class="text-center">Project List</h2>
 

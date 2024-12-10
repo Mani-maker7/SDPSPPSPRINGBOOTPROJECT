@@ -10,5 +10,5 @@
 <body>
 <s:out value="${message}"></s:out> <br/>
 <a href = "studentlogin">Login here</a>
-</body>
+<body style="background-color: #e1dbe4;">
 </html>

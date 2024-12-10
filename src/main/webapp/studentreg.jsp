@@ -44,7 +44,7 @@
         }
     </style>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
 
 <!-- Modern Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-body-tertiary">

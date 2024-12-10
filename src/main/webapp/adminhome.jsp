@@ -11,5 +11,5 @@
 <body>
 <%@include file="adminnavbar.jsp" %><br/>
 Total customers:<s:out value="${count}"></s:out> <br/>
-</body>
+<body style="background-color: #e1dbe4;">
 </html>

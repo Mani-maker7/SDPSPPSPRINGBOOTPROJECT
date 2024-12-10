@@ -258,7 +258,7 @@
     </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
     <%@include file="studentnavbar.jsp" %><br/>
 
     <div class="container">

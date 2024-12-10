@@ -15,5 +15,5 @@
 <body>
 <%@include file="masternavbar.jsp" %><br/>
 Welcome <%=m.getName() %>
-</body>
+<body style="background-color: #e1dbe4;">
 </html>

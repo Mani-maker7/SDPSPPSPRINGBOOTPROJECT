@@ -65,7 +65,7 @@
     }
   </style>
 </head>
-<body>
+<body style="background-color: #e1dbe4;">
   <!-- Hero Section -->
   <div class="hero-section">
     <h1>Welcome to the Student Projects and Portfolio</h1>
